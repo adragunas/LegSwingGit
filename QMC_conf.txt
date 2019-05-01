@@ -1,6 +1,6 @@
 # IP address of the QTM_RT server
-#<IP:127.0.0.1>
-<IP:165.124.9.210>
+<IP:127.0.0.1>
+#<IP:165.124.9.210>
 
 # Port used
 <PORT:22222>
